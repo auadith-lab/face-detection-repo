@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FaceCount Native</string>
+    <string name="no_faces">NO FACES DETECTED</string>
+    <string name="one_face">1 FACE IN VIEW</string>
+    <string name="faces_detected">%d FACES IN VIEW</string>
+</resources>

@@ -1,0 +1,13 @@
+# Temp build files
+bin/
+gen/
+*.tmp
+node_modules/
+compiled_res.zip
+base.apk
+aligned.apk
+debug.keystore
+
+# Keep pre-compiled installable APKs
+!FaceCount-Native.apk
+!FaceCountAI.apk
